@@ -1,6 +1,6 @@
 import React from 'react';
 import MapView, {PROVIDER_GOOGLE} from 'react-native-maps';
-import {StatusBar, View, Text, Dimensions} from 'react-native';
+import {StatusBar, View, Dimensions} from 'react-native';
 import styles from './src/styles/index.style';
 import Carousel from 'react-native-snap-carousel';
 import {ENTRIES2} from './src/static/entries';
